@@ -3,6 +3,10 @@
 
 
 - Estou estudando Html, CSS e JavaScript
+- Estou estudando Html, CSS e JavaScript
+- Estou estudando Html, CSS e JavaScript
+- Estou estudando Html, CSS e JavaScript
+- Estou estudando Html, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/D4niel001">
