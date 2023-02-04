@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 Olá! Eu sou Daniel,Estudante de Análise e desenvolvimento de sistemas! <br>🌱 Atualmente estou aprendendo JavaScript<br>⚡ Estou à procura de novas experiências proficionais.
-
+- 👋 Olá! Eu sou Daniel,Estudante de Análise e desenvolvimento de sistemas! 
+- 🌱 Atualmente estou aprendendo JavaScript e Ract
+- ⚡ Estou à procura da minha primeira experiência profissional como dev.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel.slip08) 
