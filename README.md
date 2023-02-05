@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Olá! Eu sou Daniel,Estudante de Análise e desenvolvimento de sistemas! 
-- 🌱 Atualmente estou aprendendo JavaScript e Ract
+- 🌱 Atualmente estou aprendendo JavaScript e React
 - ⚡ Estou à procura da minha primeira experiência profissional como dev.
 
 ## 🌐 Socials:
