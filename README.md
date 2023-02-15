@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 👋 Olá! Eu sou Daniel,Estudante de Análise e desenvolvimento de sistemas! 
-- 🌱 Atualmente estou aprendendo JavaScript e React
+- 👋 Olá! Eu sou Daniel, Estudante de Análise e desenvolvimento de sistemas! 
+- 🌱 Atualmente estou estudando JavaScript, React e sass
 - ⚡ Estou à procura da minha primeira experiência profissional como dev.
 
 ## 🌐 Socials:
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="42" alt="sass logo" />
 </div>
 
 # 📊 GitHub Stats:
